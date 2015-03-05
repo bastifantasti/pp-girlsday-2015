@@ -1,0 +1,249 @@
+[
+    {
+        "filename": "index.md",
+        "attr": {
+
+            "id": "Girlsday-2015",
+            "data-background": "",
+            "data-state": "pp-bg-green"
+        }
+    },
+    {
+        "filename": "slide-1-ueberblick.md",
+        "attr": {
+            "id": "ueberblick",
+            "data-background": "",
+            "data-state": "pp-bg-green"
+        }
+    },
+    [
+        {
+            "filename": "wer-bin-ich-1.html",
+            "attr": {
+                "id": "Wer-bin-ich",
+                "data-background": "",
+                "data-state": ""
+            }
+        },
+        {
+            "filename": "wer-bin-ich-2.html",
+            "attr": {
+                "id": "Wer-bin-ich-2",
+                "data-background": "",
+                "data-state": "pp-bg-blue"
+            }
+        },
+        {
+            "filename": "angular-3.html",
+            "attr": {
+                "id": "Angular-beispiel",
+                "data-background": "",
+                "data-state": "pp-bg-red angularExample-1"
+            }
+        },
+        {
+            "filename": "angular-4.html",
+            "attr": {
+                "id": "Angular-templating",
+                "data-background": "",
+                "data-state": "pp-bg-red angularExample-2"
+            }
+        },
+        {
+            "filename": "angular-5.html",
+            "attr": {
+                "id": "Angular-Uebersicht",
+                "data-background": "",
+                "data-state": "pp-bg-red angularExample-2"
+            }
+        }
+    ],
+    [
+        {
+            "filename": "yeoman-1.html",
+            "attr": {
+                "id": "Yeoman-intro",
+                "data-background": "#fff",
+                "data-state": "pp-bg-white"
+            }
+        },
+        {
+
+            "filename": "yeoman-2.html",
+            "attr": {
+                "id": "Yeoman-installation",
+                "data-state": "pp-bg-black"
+            }
+        }
+    ,
+        {
+            "filename": "yeoman-3.html",
+            "attr": {
+                "id": "Yeoman-generator",
+                "data-state": "pp-bg-black",
+                "data-id": "yeoman-generators"
+            }
+        }
+    ],
+    [
+        {
+            "filename": "ide-1.html",
+            "attr": {
+                "id": "IDE-intro",
+                "data-background": "#fff",
+                "data-state": "pp-bg-green"
+            }
+        },
+        {
+            "filename": "ide-2.html",
+            "attr": {
+                "id": "Controller-Routing",
+                "data-state": "pp-bg-green"
+            }
+        },
+        {
+            "filename": "ide-3.html",
+            "attr": {
+                "id": "Die-Suche",
+                "data-state": "pp-bg-green"
+            }
+        }
+
+    ],
+    [
+        {
+            "filename": "service-1.html",
+            "attr": {
+                "id": "Marvel-API",
+                "data-background": "images/marvel.jpg",
+                "data-state": "pp-bg-image",
+                "data-transition": "linear",
+                "backgroundTransition" :"slide"
+            }
+        },
+        {
+            "filename": "service-2.html",
+            "attr": {
+                "id": "Service",
+                "data-state": "pp-bg-black"
+            }
+        },
+        {
+            "filename": "service-3.html",
+            "attr": {
+                "id": "Controller",
+                "data-state": "pp-bg-black"
+            }
+        },
+        {
+            "filename": "service-4.html",
+            "attr": {
+                "id": "JS-Promises-1",
+                "data-state": "pp-bg-black"
+            }
+        },
+        {
+            "filename": "service-5.html",
+            "attr": {
+                "id": "JS-Promises-2",
+                "data-state": "pp-bg-black"
+            }
+        }
+    ,
+        {
+            "filename": "service-6.html",
+            "attr": {
+                "id": "Service-Factory-Provider",
+                "data-state": "pp-bg-black"
+            }
+        }
+
+    ],
+    [
+        {
+            "filename": "view-1.html",
+            "attr": {
+                "id": "Und-jetzt",
+                "data-background": "images/light-bulb-3229.jpg",
+                "data-state": "pp-bg-image",
+                "data-transition": "linear",
+                "backgroundTransition" :"slide"
+            }
+        },{
+        "filename": "view-2.html",
+        "attr": {
+            "id": "Daten-Ausgabe",
+            "data-state": "pp-bg-black"
+
+        }
+    }
+
+    ],
+    [
+        {
+            "filename": "animation-1.html",
+            "attr": {
+                "id": "Animation",
+                "data-background": "images/schoen.jpg",
+                "data-state": "pp-bg-image"
+            }
+        },{
+        "filename": "animation-2.html",
+        "attr": {
+            "id": "Animation-2",
+            "data-background": "images/mac3.jpg",
+            "data-state": "pp-bg-image"
+
+        }
+    }
+
+    ],
+    [
+        {
+            "filename": "usecase-1.html",
+            "attr": {
+                "id": "Use-Cases",
+                "data-background": "images/usecase.jpg",
+                "data-state": "pp-bg-image",
+                "data-transition": "linear",
+                "backgroundTransition" :"slide"
+            }
+
+        }
+
+    ],
+    [
+        {
+            "filename": "ausblick-1.html",
+            "attr": {
+                "id": "Angular Next Steps",
+                "data-background": "images/pixelpark.jpg",
+                "data-state": "pp-bg-image",
+                "data-transition": "linear",
+                "backgroundTransition" :"slide"
+            }
+        },{
+        "filename": "ausblick-2.html",
+        "attr": {
+            "id": "more about Angular",
+            "data-background": "images/mac6.jpg",
+            "data-state": "pp-bg-image",
+            "data-transition": "linear",
+            "backgroundTransition" :"slide"
+
+
+        }
+    }
+
+    ],
+    {
+        "filename": "outro.md",
+        "attr": {
+
+            "id": "PSP-Ende",
+            "data-background": "",
+            "data-state": "pp-bg-green"
+        }
+    }
+
+]

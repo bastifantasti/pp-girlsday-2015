@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Girlsday 2015",
+    "packageVersion": "0.0.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "bastifantasti",
+    "githubRepository": "pp-girlsday-2015"
+  }
+}

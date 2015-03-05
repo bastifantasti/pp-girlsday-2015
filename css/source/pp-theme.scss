@@ -1,0 +1,275 @@
+/**
+      PP Fonts
+**/
+
+/**
+      PP COLORS
+**/
+$pp-col-green: #97be00;
+$pp-col-magenta: #c09;
+$pp-col-pink: #f06;
+$pp-col-blue: #09f;
+$pp-col-orange: #fcbc04;
+$pp-col-red: #c00;
+
+input{
+  font-size: 36px;
+}
+
+.green {
+  color: $pp-col-green;
+}
+
+.magenta {
+  color: $pp-col-magenta;
+}
+
+.pink {
+  color: $pp-col-pink;
+}
+
+.blue {
+  color: $pp-col-blue;
+}
+
+.orange {
+  color: $pp-col-orange;
+}
+
+.red {
+  color: $pp-col-red;
+}
+/**
+      UI Elements
+**/
+.reveal .progress span {
+  background: $pp-col-pink;
+}
+.reveal .slide-number {
+  color: #fff;
+}
+
+.reveal .controls {
+  div.navigate-left,div.navigate-left.enabled{
+    border-right-color: #fff;
+  }
+  div.navigate-right,div.navigate-right.enabled{
+    border-left-color: #fff;
+  }
+  div.navigate-up,div.navigate-up.enabled{
+    border-bottom-color: #fff;
+  }
+
+  div.navigate-down,div.navigate-down.enabled{
+    border-top-color: #fff;
+  }
+}
+/**
+      PP BGs
+**/
+.pp-bg-green .reveal .state-background {
+  background: #4c6200;
+  background: linear-gradient(45deg,#4c6200 0,#5c8701 44%,#92b801 100%);
+}
+.pp-bg-blue .reveal .state-background {
+    background: #006CB8;
+    background: linear-gradient(45deg,#006CB8 0,#006CB8 44%,$pp-col-blue 100%);
+}
+.pp-bg-facebook .reveal .state-background {
+    background: #3b5998;
+    background: linear-gradient(45deg,#3b5998 0,#3b5998 66%,#8b9dc3 100%);
+}
+.pp-bg-red .reveal .state-background {
+  background: $pp-col-red;
+  //background: linear-gradient(45deg,#cc0000 0,#dc1234 44%,#EE5757 100%);
+}
+.pp-bg-image .reveal {
+
+  .present{
+    color: #000;
+    p,ul li{
+      color: #000;
+    }
+  }
+  .slide-number {
+    color: #000;
+  }
+  //background: linear-gradient(45deg,#cc0000 0,#dc1234 44%,#EE5757 100%);
+}
+.pp-bg-white .reveal {
+
+  .state-background {
+    background: #fff;
+  }
+  .present{
+    color: #000;
+    p,ul li{
+      color: #000;
+    }
+  }
+  .slide-number {
+    color: #000;
+  }
+  .controls {
+    div.navigate-left,div.navigate-left.enabled{
+      border-right-color: #000;
+    }
+    div.navigate-right,div.navigate-right.enabled{
+      border-left-color: #000;
+    }
+    div.navigate-up,div.navigate-up.enabled{
+      border-bottom-color: #000;
+    }
+
+    div.navigate-down,div.navigate-down.enabled{
+      border-top-color: #000;
+    }
+  }
+  //background: linear-gradient(45deg,#cc0000 0,#dc1234 44%,#EE5757 100%);
+}
+
+
+.pp-bg-black .reveal {
+
+  .state-background {
+    background: #000;
+  }
+  .present{
+    color: #fff;
+    p,ul li{
+      color: #fff;
+    }
+    a:not(.image){
+      color: $pp-col-green;
+      background-color: #000;
+      &:hover{
+        color: #fff;
+        background-color: $pp-col-green;
+      }
+    }
+  }
+  //background: linear-gradient(45deg,#cc0000 0,#dc1234 44%,#EE5757 100%);
+}
+
+
+.pp-bg-image .reveal .present p {
+    color: #fff;
+}
+
+/**
+      PP STYLES
+**/
+.reveal {
+  .comic-white {
+    color: #000;
+    background-color: #fff;
+    line-height: 1.5em !important;
+
+  }
+  .comic {
+    color: #fff;
+    background-color: #000;
+  }
+  section img{
+    background: none;
+  }
+}
+.pp-bg-image .reveal .present ul li{
+  color: #fff;
+}
+
+  .reveal{
+    section{
+      img{
+        border: none;
+        box-shadow: none;
+      }
+    }
+    a:not(.image){
+      color: #fff;
+      background-color: #000;
+      &:hover{
+        color: #000;
+        background-color: #fff;
+      }
+    }
+    .small-txt{
+      font-size: 18px;
+      a:not(.image){
+        color: #fff;
+        background: none;
+        &:hover{
+          color: #000;
+          background: none;
+        }
+      }
+    }
+  }
+.transparent-bg{
+  background-color: rgba(255,255,255,0.2);
+}
+span.file{
+  font-size: 18px;
+  padding: 0;
+  line-height: 8px;
+}
+span.filename{
+  font-size: 24px;
+
+  line-height: 12px;
+}
+
+.tools-list {
+  list-style-type: none !important;
+  padding: 0
+}
+
+.tools-list li {
+  display: list-item;
+  padding-top: 29px;
+  text-align: left;
+  height: 77px;
+  padding-left: 80px;
+  background-repeat: no-repeat;
+  vertical-align: baseline;
+  font-size: 20px
+}
+
+.yoyo {
+  background-position: -4px 15px;
+  background-image: url(../images/bullet-yo.gif)
+}
+
+.gruntjs {
+  background-position: -4px 15px;
+  background-image: url(../images/bullet-grunt.gif)
+}
+
+.bower {
+  background-position: -4px 15px;
+  background-image: url(../images/bullet-bower.gif)
+}
+
+.greatlist{
+  li{
+    margin-bottom: 14px;
+  }
+}
+
+/*********************************************
+ * HEADERS
+ *********************************************/
+
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+    font-family: Arial;
+
+}
+
+.reveal h1 {
+    text-shadow: none;
+}
