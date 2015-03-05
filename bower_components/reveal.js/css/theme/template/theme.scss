@@ -9,6 +9,15 @@ body {
 	background-color: $backgroundColor;
 }
 
+// Primary/body text
+$mainFont: Arial, sans-serif;
+$mainFontSize: 36px;
+$mainColor: #eee;
+
+// Headings
+$headingMargin: 0 0 20px 0;
+$headingFont: Arial;
+
 .reveal {
 	font-family: $mainFont;
 	font-size: $mainFontSize;
