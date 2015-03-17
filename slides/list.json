@@ -21,7 +21,6 @@
             "filename": "wer-bin-ich-1.html",
             "attr": {
                 "id": "Wer-bin-ich",
-                "data-background": "",
                 "data-state": ""
             }
         },
@@ -29,59 +28,41 @@
             "filename": "wer-bin-ich-2.html",
             "attr": {
                 "id": "Wer-bin-ich-2",
-                "data-background": "",
-                "data-state": "pp-bg-blue"
-            }
-        },
-        {
-            "filename": "angular-3.html",
-            "attr": {
-                "id": "Angular-beispiel",
-                "data-background": "",
-                "data-state": "pp-bg-red angularExample-1"
-            }
-        },
-        {
-            "filename": "angular-4.html",
-            "attr": {
-                "id": "Angular-templating",
-                "data-background": "",
-                "data-state": "pp-bg-red angularExample-2"
-            }
-        },
-        {
-            "filename": "angular-5.html",
-            "attr": {
-                "id": "Angular-Uebersicht",
-                "data-background": "",
-                "data-state": "pp-bg-red angularExample-2"
+                "data-background": "images/publicis.jpg",
+                "data-state": ""
             }
         }
     ],
     [
         {
-            "filename": "yeoman-1.html",
+            "filename": "was-ist-was-html.html",
             "attr": {
-                "id": "Yeoman-intro",
-                "data-background": "#fff",
-                "data-state": "pp-bg-white"
+                "id": "was-ist-was-html",
+                "data-background": "images/minions.gif"
+            }
+        },
+        {
+            "filename": "was-ist-was-html-2.html",
+            "attr": {
+                "id": "was-ist-was-html-2",
+                "data-background": "images/html2.png"
             }
         },
         {
 
-            "filename": "yeoman-2.html",
+            "filename": "was-ist-was-css.html",
             "attr": {
-                "id": "Yeoman-installation",
-                "data-state": "pp-bg-black"
+                "id": "was-ist-was-css",
+                "data-background": "images/css.gif"
             }
         }
     ,
         {
-            "filename": "yeoman-3.html",
+            "filename": "was-ist-was-js.html",
             "attr": {
-                "id": "Yeoman-generator",
-                "data-state": "pp-bg-black",
-                "data-id": "yeoman-generators"
+                "id": "was-ist-was-js",
+                "data-background": "images/js.gif",
+                "data-id": "was-ist-was-js"
             }
         }
     ],
