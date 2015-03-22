@@ -68,25 +68,9 @@
     ],
     [
         {
-            "filename": "ide-1.html",
+            "filename": "tools.html",
             "attr": {
-                "id": "IDE-intro",
-                "data-background": "#fff",
-                "data-state": "pp-bg-green"
-            }
-        },
-        {
-            "filename": "ide-2.html",
-            "attr": {
-                "id": "Controller-Routing",
-                "data-state": "pp-bg-green"
-            }
-        },
-        {
-            "filename": "ide-3.html",
-            "attr": {
-                "id": "Die-Suche",
-                "data-state": "pp-bg-green"
+                "id": "Tools-Hilfe-und-Apps"
             }
         }
 
